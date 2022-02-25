@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and serious narrative of Londons fatal fire with its diurnal and nocturnal progression, from Sunday morning (being) the second of September, anno mirabili 1666, until Wednesday night following : a poem : as also London's lamentation to her regardless passengers.</title>
+            <author>Wiseman, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60047</idno>
+            <idno type="STC">Wing S3551</idno>
+            <idno type="STC">ESTC R11273</idno>
+            <idno type="EEBO-CITATION">11910445</idno>
+            <idno type="OCLC">ocm 11910445</idno>
+            <idno type="VID">50787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 512:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and serious narrative of Londons fatal fire with its diurnal and nocturnal progression, from Sunday morning (being) the second of September, anno mirabili 1666, until Wednesday night following : a poem : as also London's lamentation to her regardless passengers.</title>
+                  <author>Wiseman, Samuel.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Dring ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Sa. Wiseman.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Fire, 1666 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50787:1"/>
+            <pb facs="tcp:50787:1"/>
+            <p>A Short and Serious NARRATIVE OF LONDONS Fatal Fire, WITH ITS Diurnal and Nocturnal Progreſſion, From Sunday Morning (being) the Second of <hi>SEPTEMBER, Anno Mirabili</hi> 1666. Until Wedneſday Night following, A POEM. AS ALSO <hi>Londons</hi> Lamentation to her Regardleſs Paſſengers.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Peter Dring,</hi> at the Sign of the <hi>Beaver</hi> in the <hi>Strand,</hi> between <hi>Ivy-bridge</hi> and <hi>Durham-Yard,</hi> who formerly lived at the <hi>Sun</hi> in the <hi>Poultrey</hi> in <hi>London.</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:50787:2"/>
+            <lg>
+               <head>Saturday Night.</head>
+               <l>WHen the Black Chamberlain of gloomy Night,</l>
+               <l>(Dull <hi>Morpheus</hi>) to ſlumbering did invite</l>
+               <l>The drowſie Mortals of the Worlds wide Inn,</l>
+               <l>And bound each Soul up in a leaden Chain;</l>
+               <l>When Silence did her ſable Curtains cloſe,</l>
+               <l>To ſhut each Eye up in a ſweet repoſe,</l>
+               <l>And every Bird under her tender wing</l>
+               <l>Had gave its harmleſs head a Covering,</l>
+               <l>And that the harneſt Beaſts that toyl all day,</l>
+               <l>(From thraldom freed) all down in quiet lay;</l>
+               <l>When all was whiſt, and ſtill, and calm, and free,</l>
+               <l>And CINTHEA bright ſmil'd with ſerenitie,</l>
+               <l>Forth the dark Caverns of the diſmal Earth,</l>
+               <l>A boiſterous bellowing Wind rous'd and ſprung forth,</l>
+               <l>And to diſturb this quiet Silence came,</l>
+               <l>And with its ſhuffling feet ſpurn'd up a flame</l>
+               <l>From ſome few glowing Sparks, and made them be</l>
+               <l>Apt Actors for a purpos'd Tragedy.</l>
+               <l>The waken'd Flames augmented more and more,</l>
+               <l>Which churliſh <hi>BOREAS</hi> buffets till they roar,</l>
+               <l>And with imperious Breath Commiſſion gave,</l>
+               <l>That every new-born Spark ſhould be his ſlave,</l>
+               <l>And lent them power to enact his Will,</l>
+               <l>And his tyrannick Precepts to fulfill;</l>
+               <l>And 'cauſe their Execution ſwift might be,</l>
+               <l>He gave them Wings to add Celerity,</l>
+               <l>Made every glimmering ſpark a curling Flame,</l>
+               <l>Whoſe powerful Force no power could quell, or tame.</l>
+               <l>And now the doleful, dreadful, hideous Note</l>
+               <l>Of <hi>FIRE,</hi> is ſcreem'd out with a deep-ſtrain'd throat;</l>
+               <pb n="3" facs="tcp:50787:2"/>
+               <l>Horror, and fear, and ſad diſtracte I Cryes,</l>
+               <l>Chide Sloth away, and bids the Sluggard riſe;</l>
+               <l>Moſt direful Exclamations are let fly</l>
+               <l>From every Tongue, Tears ſtand in every Eye.</l>
+            </lg>
+            <lg>
+               <head>Sunday Morning.</head>
+               <l>DOubtful Conſtructions of far greater Harms,</l>
+               <l>Diſ-peopl'd Churches, made men take up Arms,</l>
+               <l>And in confuſion all together go,</l>
+               <l>In oppoſition of an unknown Foe.</l>
+               <l>Now from the Temple every one doth fly,</l>
+               <l>And run from Prayer (Heavens Artillery,)</l>
+               <l>For to encounter a ſuſpected Foe</l>
+               <l>When that (alas) 'twas Heav'n had bent his Bow,</l>
+               <l>And Brow againſt us. O'twas GOD alone</l>
+               <l>(That we ran from) to whom we ſhould have flown.</l>
+               <l>
+                  <hi>PHOEB<g ref="char:V">Ʋ</g>S</hi> foreſaw our Woes, and them bewail'd,</l>
+               <l>And ſigh'd ſo long till he our Springs exhail'd.</l>
+               <l>Griev'd Heaven, ſad Earth to ſee our angry GOD</l>
+               <l>Threat'ning poor <hi>LONDON</hi> with his flaming Rod,</l>
+               <l>Expreſs'd a weighty ſorrow, whilſt that we</l>
+               <l>Imbrac'd our Sins, ſlighted our Miſery.</l>
+               <l>Flames laſh the Rich man from his wealthy Store,</l>
+               <l>And bid the ruin'd Young man work for more.</l>
+               <l>—That Angry Majeſty who in the Year</l>
+               <l>'(665.) by Death did clear</l>
+               <l>So many Thouſands by the PESTILENCE,</l>
+               <l>And from their HABITATIONS ſent them hence,</l>
+               <l>In (66.) a Woe as great did make,</l>
+               <l>And did the HOUSES from the DWELLERS take.</l>
+               <l>The furious Fire rides on with full Career,</l>
+               <l>And no Repulſe will its Force feel or fear,</l>
+               <l>Flings down ſtrong Sructures both of Stone and Wood,</l>
+               <l>And proudly ſcorns to have its Power withſtood.</l>
+               <l>Th'undainted Courage of the crack'ling Flames</l>
+               <l>Slighting the weaker Current of the THAMES,</l>
+               <pb n="4" facs="tcp:50787:3"/>
+               <l>And whilſt inſulting at her Banks it ſtands,</l>
+               <l>In execution of the Winds Commands,</l>
+               <l>The Dreadful Shoar, the pleaſant Streams doth make</l>
+               <l>To each Beholder, like a Flaming Lake.</l>
+               <l>Th'amazed Tydes do ſwiftly glide away,</l>
+               <l>And the ſad News to <hi>NEPT<g ref="char:V">Ʋ</g>NE'S</hi> Court convey;</l>
+               <l>Of which, when once the Aged SIRE hears,</l>
+               <l>He ſends them back repleniſh'd with his tears.</l>
+               <l>Her Neighboring Floods (alas) now uſeleſs are,</l>
+               <l>She onely ſerves on her tame Back to bear</l>
+               <l>Such Goods that frighted with the horrid ſhape</l>
+               <l>Of the moſt Dreadful Fire, did thither ſcape.</l>
+            </lg>
+            <lg>
+               <head>Sunday Night.</head>
+               <l>NOw <hi>TITAN</hi> weary of this grievous Sight,</l>
+               <l>Reſign'd to <hi>CINTHEA</hi> the Charge o'th' Night,</l>
+               <l>Took wings and flutter'd (frighted) to the WEST,</l>
+               <l>And charg'd that heavy Mortals ſhould not reſt.</l>
+               <l>At every drooping Brow, pale Fear doth ſtand</l>
+               <l>To keep out Slumber, Sleep to counter-mand:</l>
+               <l>In every Ear continual Dangers rattle,</l>
+               <l>Their Souls from ſelf-ſecurity to ſtartle;</l>
+               <l>A penſive Grief doth every heart array,</l>
+               <l>And Sighs call back the new departed day,</l>
+               <l>Spending the lingering hours of that Night</l>
+               <l>In reſtleſs groans. Viewing the dreadful Light</l>
+               <l>Belch forth new Blazes ſtill, which <hi>AETNA</hi> like,</l>
+               <l>In every Soul doth deep amazement ſtrike,</l>
+               <l>While ſome ſtand ſhivering in the ſtreet to ſee,</l>
+               <l>(But not prevent) approaching Miſery:</l>
+               <l>Others at diſtance from the fearful Fire,</l>
+               <l>Of every haſty Paſſenger enquire</l>
+               <l>Of its ſad fatal Progreſs: Others lye</l>
+               <l>Securely ſnorting in ſtupidity,</l>
+               <l>While ſome more careful to preſerve their Wares,</l>
+               <l>Employ their indefatigable Cares,</l>
+               <pb n="5" facs="tcp:50787:3"/>
+               <l>And load the crackling Carriage with their ſtore,</l>
+               <l>While others more neceſſitous and poor,</l>
+               <l>Not able for to bribe the churliſh Slave</l>
+               <l>With ſuch large Praemiums as now he'd have,</l>
+               <l>Burthen their own weak Backs, and ſadly tire</l>
+               <l>Their faint and founder'd Limbs, to ſave the hire</l>
+               <l>Of an expenſive Carr; which was a Rate</l>
+               <l>That did exceed (alas) ſome mens Eſtate!</l>
+               <l>This makes the thrifty Husband ſweat to lugg</l>
+               <l>His Bed, and Boulſter, Coverlet, and Rugg:</l>
+               <l>Now all turn Porters, poor, and wealthy men,</l>
+               <l>Slow Age, ſtrong Youth, and little Childeren,</l>
+               <l>Each one the talent of his Strength imployes,</l>
+               <l>On every Back a ponderous Burthen lyes.</l>
+               <l>The AGED MAN, whoſe feeble Limbs to bear</l>
+               <l>His weaker Body ſcarcely able were,</l>
+               <l>(Without the help of his aſſiſting Crutch,)</l>
+               <l>Neceſſity did lend him power ſuch,</l>
+               <l>With eaſe to bear that which before he ſtrove</l>
+               <l>With greateſt pains to lift, and could not move.</l>
+               <l>Now many wanting both a Purſe and Pow'r</l>
+               <l>To their Aſſiſtance, let the Flames devour</l>
+               <l>That, of which through their induſtry and care,</l>
+               <l>Themſelves (not long ſince) happy Maſters were.</l>
+               <l>Thoſe that were Rich, and potent in Eſtate,</l>
+               <l>Within one Night this Fire did ruinate;</l>
+               <l>And other ſome by avaritious ſtealth,</l>
+               <l>In this Calamity, have gain'd them wealth.</l>
+               <l>Thus was the firſt ſad Night ſpun out in woe,</l>
+               <l>Carts all night long went rumbling to and fro,</l>
+               <l>And every throbbing heart with grief and care,</l>
+               <l>In expectation of the Morning were.</l>
+            </lg>
+            <lg>
+               <head>Munday Morning.</head>
+               <l>NOw the <hi>Bright Traveller</hi> that never ceaſt,</l>
+               <l>But in a ſweat came climbing up the Eaſt,</l>
+               <pb n="6" facs="tcp:50787:4"/>
+               <l>Lear'd through the Curtains of the drowſie Morn,</l>
+               <l>Fearing another PHOEBUS had been born;</l>
+               <l>Or elſe that JOVE ſome way diſpleas'd had ſent</l>
+               <l>A new made Light to rule this Continent,</l>
+               <l>Bluſh'd red with fear, and at the firſt did ſeem</l>
+               <l>To curb the Reins of his curvetting Team,</l>
+               <l>But finding out what 'twas, he made no ſtay,</l>
+               <l>But ſhook his head, laſh'd on, and rid away.</l>
+               <l>The ſpreading Flames now conquer all they meet,</l>
+               <l>And walk in Triumph through the frighted ſtreets,</l>
+               <l>And finding in their fury ſuch ſucceſs,</l>
+               <l>Outragious grew, and become mercileſs,</l>
+               <l>CHURCHES &amp; CHAPPELS, and brave HALLS pull down</l>
+               <l>And throw their towering Turrets to the ground,</l>
+               <l>And that which had withſtood the hand of AGE,</l>
+               <l>Was ſpoil'd and ruin'd by its rave'nous rage:</l>
+               <l>Brave Edifices, and of comely ſtate,</l>
+               <l>This cruel Fire doth delapidate,</l>
+               <l>Clambers the lofty Churche's ſtately walls,</l>
+               <l>And leaves them not till all to ruine falls.</l>
+               <l>And our diſtreſs in this the greater was,</l>
+               <l>In that juſt Heaven had made our hands (alas)</l>
+               <l>The active Inſtruments for to tear down</l>
+               <l>Our own beloved Manſions to the ground,</l>
+               <l>This we purſu'd with eager forwardneſs,</l>
+               <l>And ſtill our beſt endeavours lack'd ſucceſs,</l>
+               <l>Our care, our toyle, our labour never ceas'd,</l>
+               <l>(Nor did the fire) but furiouſly increas'd,</l>
+               <l>Until by 'ts piercing heat and powerful flaſhes,</l>
+               <l>What ere it touch'd, mouldred away to Aſhes.</l>
+               <l>For now the fierce unbridl'd Flames preſage</l>
+               <l>That we ſhall know the extent of their rage,</l>
+               <l>Begets a univerſal Conflagration,</l>
+               <l>Greater than ever any Generation</l>
+               <l>As yet ere knew, or heard of: Now it beats</l>
+               <l>A broad path way into the ſpacious ſtreets,</l>
+               <pb n="7" facs="tcp:50787:4"/>
+               <l>Roves up to CORNHIL where with force they range,</l>
+               <l>Until they overthrow the ROYAL-CHANGE,</l>
+               <l>That ſtately Fabrick, and its STATUES rare,</l>
+               <l>Spoil'd and conſum'd reduc'd to Aſhes are,</l>
+               <l>But honouring Reverend GRESHAM'S Effigy,</l>
+               <l>Leaves him untoucht, and gently paſſeth by.</l>
+            </lg>
+            <lg>
+               <head>Munday Night.</head>
+               <l>NOw did the Worlds bright Lamp (the SUN) expire,</l>
+               <l>And every STAR did to its Orb retire,</l>
+               <l>Whilſt from the Fires foul ſtomack doth ariſe</l>
+               <l>Dark ſmoaky Vapours to the troubled Skies,</l>
+               <l>And ſometimes from its yawning throat are ſent</l>
+               <l>Bright Blazes to affright the Element:</l>
+               <l>Its ravenous Jaws feed on, and chop down ſtore</l>
+               <l>Of ſlaughter'd Buildings, and roar out for more,</l>
+               <l>When as its greedy teeth had gnawn off all</l>
+               <l>About a Carcaſs, down it lets it fall;</l>
+               <l>And thus with baſe unſatiate appetite</l>
+               <l>In riotous ſpoils feaſts on all day and night.</l>
+               <l>And now comes prancing to the POULTERY,</l>
+               <l>Commanding there a Goal-delivery,</l>
+               <l>That every pining Priſoner forthwith might,</l>
+               <l>His wiſh'd for Liberty enjoy that Night,</l>
+               <l>And ſo the ſtrong built Walls its force did enter,</l>
+               <l>(Which to oppoſe 'tis bootleſs to adventure)</l>
+               <l>Thus in voracious manner crowding on,</l>
+               <l>With Blazes that anticipate the SUN.</l>
+            </lg>
+            <lg>
+               <head>Tueſday Morning.</head>
+               <l>THough <hi>Mellancholly Night</hi> had now flung by</l>
+               <l>Her ſpangl'd Mantle, yet the heavy Eye</l>
+               <l>Of every watchful Mortal doth retain</l>
+               <l>A cloudy Sorrow, ſwol'n big with rain;</l>
+               <l>Tempeſtuous Sighs ariſe from every breaſt,</l>
+               <l>And GRIEF'S ſharp Iron-whip admits no reſt.</l>
+               <pb n="8" facs="tcp:50787:5"/>
+               <l>And now the cruel Flames that did deſpiſe</l>
+               <l>All other ſtreams, ſlight thoſe fall from our Eyes.</l>
+               <l>O now the blazing and prodigious Fire,</l>
+               <l>Without remorſe or pity, doth conſpire</l>
+               <l>To lay our CITY deſolate and waſte,</l>
+               <l>And in regardleſs manner onwards paſt</l>
+               <l>Through ſtately CHEAP, on both ſides of the way,</l>
+               <l>And in ſuch haſte, as though it could not ſtay.</l>
+               <l>The ſhouting Wind purſues the Victory,</l>
+               <l>The Fire's diſplaying Flames his Enſigns be</l>
+               <l>Whilſt blub-cheek'd BOREAS doth his Trumpet ſound,</l>
+               <l>The affrighted Walls do totter and ſink down,</l>
+               <l>To EOLUS rude conduct there are lent,</l>
+               <l>Of bright fac'd Souldiers a whole Regiment,</l>
+               <l>Whoſe flexive head his bluſtering voyce obey,</l>
+               <l>And in their march out-ſhine the Mid-Noon day;</l>
+               <l>And thus they bend their fierce courſe to'ards the Weſt,</l>
+               <l>With flaming Feather in each glittering Creſt.</l>
+               <l>The dreadful Blaze appearing unto ſome,</l>
+               <l>T'aſſimulate th' approaching DAY OF DOOME,</l>
+               <l>When all the World conſum'd with Fire ſhall be,</l>
+               <l>And TIME give place unto ETERNITY:</l>
+               <l>Th'innumerous Sparks (that fall like feathered Snow)</l>
+               <l>Like Heaven rejected STARS do ſeem to ſhew,</l>
+               <l>And the huge crowding Mountains of thick Smoke</l>
+               <l>Like Heavens expanded Clouds appear to look.</l>
+               <l>And now it Roars, Cracks, Rends, Murmurs, and Raves,</l>
+               <l>Burying in ruines Sepulchers and Graves,</l>
+               <l>And with a perverſe envious mind is bent</l>
+               <l>Not to leave ſtanding one fair Monument,</l>
+               <l>And to the lofty Bells of CORNHIL, BOW,</l>
+               <l>That rung in pleaſant Peals to us below,</l>
+               <l>And chanted Chiming Muſick to each ear,</l>
+               <l>Theſe Flames their ſtrong ATLEAN Armes did Reer,</l>
+               <l>And ſoon as they on them their hot Palms lay,</l>
+               <l>Sink down with hear, and (like Lead) melt away.</l>
+               <pb n="9" facs="tcp:50787:5"/>
+               <l>At length a horrid, general Blaze appears,</l>
+               <l>With eager courſe onwards to'ards <hi>PA<g ref="char:V">Ʋ</g>LS</hi> it ſteers.</l>
+               <l>And there it rally'd all its Force and Pow'r,</l>
+               <l>And with extended Jaws gap'd to devour</l>
+               <l>At once that ſtately TEMPLE, which did ſtand</l>
+               <l>So firmly propt by FAITHS ſupporting Hand;</l>
+               <l>To whoſe Tuition many Tradeſmen choſe</l>
+               <l>To truſt unvalu'd Wares, and did 'em loſe;</l>
+               <l>Their fond Belief accounted it to be</l>
+               <l>Beneath the reach of Fires malignity,</l>
+               <l>When they before had ſeen its Force to rave</l>
+               <l>From higheſt Loft, down to the loweſt Cave.</l>
+               <l>Now to this brave CATHEDRAL coming near,</l>
+               <l>Her Vail it rends, doth her Immurements tear,</l>
+               <l>Staggers, and ſinks within its hot Embraces:</l>
+               <l>And this thus vanquiſh'd, on in terror traces</l>
+               <l>To <hi>L<g ref="char:V">Ʋ</g>D'S</hi> ſtrong Gate, and making there no ſtay,</l>
+               <l>Beat down the Priſon Walls and went away,</l>
+               <l>Commanding in his march, that every where</l>
+               <l>At its approach, all PRISONERS be ſet clear.</l>
+               <l>Thus in a Body terrible and wide</l>
+               <l>Half a Miles breadth and more, from Waters ſide,</l>
+               <l>It buſſel'd up to <hi>FLEET-STREET;</hi> coming there,</l>
+               <l>Each one now helpleſs grown, quite hopeleſs are:</l>
+               <l>For that the Fire ere WEDNESDAY Sun did ſhine,</l>
+               <l>Of CHURCHES brave had ruin'd Eighty Nine.</l>
+               <l>The Fire affrighted SUBURBS now expects</l>
+               <l>Their look'd for Deſolation, to be next</l>
+               <l>Mantled in Flames; for which they now prepare,</l>
+               <l>And of their Houſes grown regardleſs are:</l>
+               <l>Now FEAR and DANGER do with trembling arms</l>
+               <l>Conduct diſtracted People from the Harms</l>
+               <l>The forked Flames do threat: By Barge and Boat,</l>
+               <l>And ſome by Horſe and Wain do lodge remote</l>
+               <l>Their Goods for ſafety, while that ſome bereft</l>
+               <l>Of Houſe by Fires cruelty, are left</l>
+               <l>In Deſolation and Adverſity,</l>
+               <l>And in the Fields are forc'd all night to lye,</l>
+               <pb n="10" facs="tcp:50787:6"/>
+               <l>And there contentedly take for a Bed</l>
+               <l>The Earth; Heaven for a Coverlett.</l>
+            </lg>
+            <lg>
+               <head>Tueſday Night.</head>
+               <l>NOw with the Sun the rambling Flames would reſt,</l>
+               <l>And coming to St. <hi>D<g ref="char:V">Ʋ</g>NSTANS IN THE WEST,</hi>
+               </l>
+               <l>Their twinkling eyes grown dimb with too much light,</l>
+               <l>Could ſcarcely ſee to bid the Day, Good Night.</l>
+               <l>
+                  <hi>TITAN</hi> departed from our Hemiſphere,</l>
+               <l>The greater Flames all ſlept, ſave here and there</l>
+               <l>Some Guardian Blazes lurk to call the reſt,</l>
+               <l>'Gainſt ſuch as ſhould their ſlumbering infeſt.</l>
+            </lg>
+            <lg>
+               <head>Wedneſday Morning.</head>
+               <l>THe Morning wakes, and with the Morn the Fire,</l>
+               <l>Whoſe whiſpering voice ſeems ſoftly to enquire</l>
+               <l>For its loſt Friend the Wind, who ſtole away</l>
+               <l>By Night i'th' dark, not to be found next day.</l>
+               <l>The hungry Paunch of this voracious Flame</l>
+               <l>(Saving a morſel for its Breakfaſt) came</l>
+               <l>With reunited Vigour to aſſail</l>
+               <l>The ſweating TEMPLE, and for to unvail</l>
+               <l>The Leaden Tecture that o'reſpread her Head,</l>
+               <l>Its fierce Aſſault rais'd Cryes might wake the Dead.</l>
+               <l>People grown deſperate, and madly bold,</l>
+               <l>Reſolve Reſiſtance, though the uncontroul'd</l>
+               <l>Audacious threatning Flames forbid th'intent</l>
+               <l>Of ſuch as would its o're-grown Force prevent.</l>
+               <l>Engines prevail not, Buckets do no good,</l>
+               <l>Its thirſty Mouth can guzzle up a Flood,</l>
+               <l>And ſtill its parched panting Tongue out cryes</l>
+               <l>With greedy haſte, for larger quick Supplyes.</l>
+               <l>Now here admire the goodneſs of our KING,</l>
+               <l>Whoſe tender Heart bore SUBJECTS ſuffering!</l>
+               <l>The active Prudence, and induſtrious Cares,</l>
+               <l>Th'unceſſant Labors, and the ſervent Pray'rs</l>
+               <l>Of thoſe two Royal Brothers <hi>CHARLS</hi> and <hi>JAMES,</hi>
+               </l>
+               <l>At laſt effected Conqueſt 'bove the Flames!</l>
+               <pb n="11" facs="tcp:50787:6"/>
+               <l>The worthy Tears that trickle from the Eye</l>
+               <l>Of his afflicted Sacred MAJESTY</l>
+               <l>Prevail'd with Heaven, whoſe fierce avenging Arm</l>
+               <l>MERCY with-holds; Strong Invocations charm</l>
+               <l>His ireful Indignation, Intreaties urge</l>
+               <l>Appeaſed Heaven to fling by his Scourge.</l>
+               <l>The FIRE findes oppoſition, is content</l>
+               <l>To be depreſt, and ſo no farther went.</l>
+            </lg>
+            <lg>
+               <head>Wedneſday Night.</head>
+               <l>WHile in the Field harborleſs People lye,</l>
+               <l>Warching their Goods by Night, a ſudden Cry</l>
+               <l>Of ARMS, ſalutes the Ear of every one:</l>
+               <l>Which way to go, or whither for to run</l>
+               <l>They know not, now each one doth apprehend</l>
+               <l>A certain Death; the ſudden Fear doth lend</l>
+               <l>To ſome <hi>MERC<g ref="char:V">Ʋ</g>RIAN</hi> Feet, and to ſome</l>
+               <l>A Reſolution for to dye at home.</l>
+               <l>But all appeas'd, each one to reſt betakes him,</l>
+            </lg>
+            <lg>
+               <head>Thurſday Morning.</head>
+               <l>ANd now can lye until <hi>A<g ref="char:V">Ʋ</g>RORA</hi> wakes him,</l>
+               <l>Who with a ſmiling Aſpect joys to ſee</l>
+               <l>So much Abatement of our Miſery.</l>
+               <l>And <hi>SOL</hi> advancing of his curled Head,</l>
+               <l>From th'ruddy Pillow of <hi>A<g ref="char:V">Ʋ</g>RORA'S</hi> Bed,</l>
+               <l>Vow'd he nere did (ſince the ALMIGHTY ſaid,</l>
+               <l>
+                  <hi>Let there be LIGHT,</hi> and ſo himſelf was made;</l>
+               <l>Nor ſince his firſt Days Journey to the WEST,</l>
+               <l>Or Great <hi>JEHOVAH</hi> took his SEVENTH Days reſt)</l>
+               <l>Behold ſo ſoon ſo great a Devaſtation</l>
+               <l>In any AGE, or COUNTREY, TOWN, or NATION;</l>
+               <l>As in THREE FATAL DAYES to ruinate,</l>
+               <l>To ſpoil, conſume, deſtroy, depopulate!</l>
+               <l>A Place ſo Famous, ſo Renown'd for Glory,</l>
+               <l>That 'twas the Mirror both of AGE and STORY!</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:50787:7"/>
+            <head>
+               <hi>Londons</hi> Lamentation to her regard<g ref="char:EOLhyphen"/>leſs Paſſengers.</head>
+            <lg>
+               <l>WHy do you ſlight me thus, and paſs me by,</l>
+               <l>Spurn my neglected, duſty Miſery?</l>
+               <l>You that have laid me in the fatal <g ref="char:V">Ʋ</g>rn</l>
+               <l>Of <hi>SIN,</hi> and ſeen me there to aſhes burn:</l>
+               <l>You that with crimſon Crimes, like Cables great,</l>
+               <l>Pull'd Vengeance on me, and my happy ſtate</l>
+               <l>Have made thus wretched, can you paſs me by,</l>
+               <l>And yet not at my Ruines wet your eye?</l>
+               <l>If ſtill thus unlamented be my Caſe,</l>
+               <l>The Wind it ſelf ſhall hurl my Duſt i'th' Face</l>
+               <l>Of him that doth not with a dropping eye</l>
+               <l>Sprinkle my Aſhes when he paſſeth by.</l>
+               <l>Then let ſome deep-ſought Sigh pump up a tear,</l>
+               <l>And help from duſt my down-caſt Head to rear:</l>
+               <l>All my Demoliſhments, and ruin'd Glory,</l>
+               <l>My batter'd Immurations faln before you.</l>
+               <l>My proſtrate Structures on their faces lye,</l>
+               <l>Yet every heedleſs Paſſenger walks by</l>
+               <l>Regardleſs of my Moans, although I meet</l>
+               <l>In humble manner now their ſcornful feet.</l>
+            </lg>
+            <closer>
+               <signed>Sa: Wiſem</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="account">
+            <list>
+               <item>273 Acres Waſte within the City walls.</item>
+               <item>075 Acr. 3 Roods unburnt within the City walls.</item>
+               <item>063 Acr. 3 Roods waſte without the walls.</item>
+               <item>Houſes burnt 130200.</item>
+               <item>89 Pariſhes and Churches burnt.</item>
+               <item>11 Pariſhes remaining.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Surveyors.
+<list>
+                           <item>
+                              <hi>Jonas Moor,</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Gatrix,</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
